@@ -9,7 +9,7 @@ Add mustache-l4 as a dependency to your `composer.json` file
 ```json
 "require": {
 	"laravel/framework": "4.0.*",
-	"conarwelsh/mustache-l4": "dev-master"
+	"conarwelsh/mustache-l4": "1.0.*"
 }
 ```
 	
